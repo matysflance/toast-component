@@ -69,7 +69,7 @@ function ToastPlayground() {
                   }}
                   checked={variant === option}
                 />
-                {variant}
+                {option}
               </label>
             ))}
           </div>
